@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Unisc Recorder
+GenericName=Screen Recorder
+Comment=Compact X11 screen recorder
+Exec=/opt/unisc-recorder/unisc-recorder.py
+Icon=media-record
+Terminal=false
+Categories=AudioVideo;Video;
+StartupNotify=true
+Keywords=screen;record;video;capture;
